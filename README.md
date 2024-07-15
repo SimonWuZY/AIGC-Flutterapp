@@ -1,6 +1,7 @@
-# _7_1
+# 星语言桥
+## 用绘本连接“星星”与爱
 
-A new Flutter project.
+### 基于Flutter开发的多功能儿童绘本生成创作APP
 
 ## Getting Started
 
