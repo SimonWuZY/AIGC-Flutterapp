@@ -1,17 +1,13 @@
-# 星语言桥
-## 用绘本连接“星星”与爱
+# 星语言桥——基于Flutter开发的多功能儿童绘本生成创作APP
+## 快速启动
 
-### 基于Flutter开发的多功能儿童绘本生成创作APP
+```powershell
+flutter pub get
+```
 
-## Getting Started
+启动 main.dart
 
-This project is a starting point for a Flutter application.
+## 绘本微调创作功能
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+左上角的按钮可以返回首页，若不修改首页输入框内内容再次点击输入按钮依然可以微调上次生成的绘本；右下角的按钮可以打开隐藏工具栏，使用隐藏式工具栏，点击后产生四个可互动的按钮，功能分别对应：
+![来自 SimonWuZY/MarkdownPics 的粘贴图像(https://raw.githubusercontent.com/SimonWuZY/MarkdownPics/main/imgs/Pasted%20image%2020250123220453.png)
